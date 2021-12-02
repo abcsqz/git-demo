@@ -10,6 +10,6 @@ hello atguigu !
 hello atguigu ! 
 hello atguigu ! 
 hello atguigu ! 
-hello atguigu ! 
-hello git !
+hello atguigu !   master test
+hello git !       hot-fix test
 
